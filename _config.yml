@@ -1,0 +1,41 @@
+title: ChuPei's Blog
+description: ChuPei's Blog
+
+url: https://chupei.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 10
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Articles (EN)
+   url: /articles
+ - title: Articles (中文)
+   url: /articles-zh
+ - title: Categories
+   url: /categories
+ - title: About
+   url: /about
+
+social:
+   github: e06084
+   linkedin: in/yanan-zhao-7691317b?trk=hp-identity-photo
+   facebook: profile.php?id=100014334455077
+   email: njuchupei@gmail.com
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      comments: false
+
+# development configurations
+host: 0.0.0.0
