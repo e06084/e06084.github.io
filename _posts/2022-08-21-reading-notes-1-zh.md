@@ -3,7 +3,7 @@ layout    : post
 title     : "读《Just Say No to More End-to-End Tests》"
 date      : 2022-08-21
 lastupdate: 2022-08-21
-categories: 计算机, 测试开发
+categories: 计算机 测试开发
 ---
 # 前言
 书写自动化测试用例是测试开发日常的工作内容。
