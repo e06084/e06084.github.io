@@ -13,14 +13,16 @@ title: About e06084
 
 ## Working Experience
 
-1. IBM (2013-2018), Software Testing Engineer in CSTL
-2. Qiniu Cloud (2018-), Senior Software Testing Engineer, Tech Expert in Cloud Storage, BigData, CDN
+1. IBM (2013.07 - 2018.03), Software Testing Engineer in CSTL
+2. Qiniu Cloud (2018.04 - 2023.05), Senior Software Testing Engineer, Tech Expert in Cloud Storage, BigData, CDN
+3. Shanghai AI LAB (2023.06 - now), Senior Software Testing Engineer in LLM
 
 ## Focus & Interests
 
 * Cloud, Virtualization
 * Distributed storage
 * BigData
+* Machine Learning, LLM
 
 ## Contact Me
  <p align="left"><img src="/assets/img/wechat.jpeg" width="25%" height="25%"></p>
