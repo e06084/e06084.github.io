@@ -3,26 +3,40 @@ layout: default
 title: About e06084
 ---
 
-# About e06084
+# Professional Profile
 
-* Software Testing Engineer
+Senior Software Engineer with over 10 years of experience specializing in cloud technologies, distributed systems, and large language models.
 
-## Education Experience
+## Education
 
-* 2006 - 2013 Nanjing University, EE
+* **2006 - 2010** | Nanjing University
+  * Bachelor's in Electrical Engineering
+* **2010 - 2013** | Nanjing University
+  * Master's in Electrical Engineering  
 
-## Working Experience
+## Professional Experience
 
-1. IBM (2013.07 - 2018.03), Software Testing Engineer in CSTL
-2. Qiniu Cloud (2018.04 - 2023.05), Senior Software Testing Engineer, Tech Expert in Cloud Storage, BigData, CDN
-3. Shanghai AI LAB (2023.06 - now), Senior Software Testing Engineer in LLM
+1. **Shanghai AI LAB** (2023.06 - Present)
+   * Develop and implement evaluation metrics and benchmarks for LLM training datasets
+   * Design and maintain data processing pipelines for high-quality training data preparation
 
-## Focus & Interests
+2. **Qiniu Cloud** (2018.04 - 2023.05)
+   * Senior Software Testing Engineer & Technical Expert
+   * Led quality assurance for Cloud Storage, BigData, and CDN solutions
+   * Developed automated testing frameworks and performance benchmarking tools
 
-* Cloud, Virtualization
-* Distributed storage
-* BigData
-* Machine Learning, LLM
+3. **IBM** (2013.07 - 2018.03)
+   * Software Testing Engineer in China Software Testing Lab (CSTL)
+   * Implemented quality assurance methodologies for enterprise software solutions
 
-## Contact Me
- <p align="left"><img src="/assets/img/wechat.jpeg" width="25%" height="25%"></p>
+## Technical Expertise
+
+* Cloud Infrastructure & Virtualization Technologies
+* Distributed Storage Systems
+* Big Data Processing Frameworks
+* Machine Learning & Large Language Models
+* Automated Testing & CI/CD Pipeline Integration
+
+## Contact Information
+
+<p align="left"><img src="./assets/img/wechat.jpg" width="25%" height="25%"></p>
