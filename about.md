@@ -40,4 +40,4 @@ Senior Software Engineer with over 10 years of experience specializing in cloud 
 
 ## Contact Information
 
-<p align="left"><img src="/assets/img/wechat.jpg" width="25%" height="25%"></p>
+<p align="left"><img src="/assets/img/wechat.jpeg" width="25%" height="25%"></p>
