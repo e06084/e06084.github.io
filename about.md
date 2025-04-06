@@ -9,9 +9,10 @@ Senior Software Engineer with over 10 years of experience specializing in cloud 
 
 ## Education
 
-* **2006 - 2010** | Nanjing University
+1. **Nanjing University**  (2006 - 2010)
   * Bachelor's in Electrical Engineering
-* **2010 - 2013** | Nanjing University
+
+2. **Nanjing University**  (2010 - 2013)
   * Master's in Electrical Engineering  
 
 ## Professional Experience
@@ -39,4 +40,4 @@ Senior Software Engineer with over 10 years of experience specializing in cloud 
 
 ## Contact Information
 
-<p align="left"><img src="./assets/img/wechat.jpg" width="25%" height="25%"></p>
+<p align="left"><img src="/assets/img/wechat.jpg" width="25%" height="25%"></p>
