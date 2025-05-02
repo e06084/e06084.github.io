@@ -1,5 +1,10 @@
-# Common Crawl数据集探索（二）之索引系统
-
+---
+layout    : post
+title     : "Common Crawl数据集探索（二）之索引系统"
+date      : 2025-05-02
+lastupdate: 2025-05-02
+categories: 大模型 数据
+---
 
 在上一篇文章中，我们介绍了Common Crawl这个庞大的互联网存档项目及其基本构成。今天，我们将深入探讨Common Crawl的索引系统，这是高效访问和利用这个海量数据集的关键。Common Crawl目前提供了两种主要索引：URL索引和主机索引(Host Index)，它们各自针对不同的使用场景提供了优化的访问方式。
 

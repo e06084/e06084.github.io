@@ -1,4 +1,10 @@
-# Common Crawl数据集探索（一）
+---
+layout    : post
+title     : "Common Crawl数据集探索（一）"
+date      : 2025-04-24
+lastupdate: 2025-04-24
+categories: 大模型 数据
+---
 
 最近在探索Common Crawl数据集，被它庞大的规模和丰富的应用场景深深吸引。作为数据爱好者，我计划写一系列科普文章，分享这个令人惊叹的开放数据宝库，希望能帮助更多对大数据和AI感兴趣的朋友了解这个资源。参考了Common Crawl官方博客的最新动态，今天先来聊聊它的基础知识。
 
