@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : "Common Crawl数据集探索（二）之索引系统"
+title     : "Common Crawl数据集探索（二）索引系统"
 date      : 2025-05-02
 lastupdate: 2025-05-02
 categories: 大模型 数据

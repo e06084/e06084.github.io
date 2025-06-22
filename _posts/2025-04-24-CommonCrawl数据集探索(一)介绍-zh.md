@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : "Common Crawl数据集探索（一）"
+title     : "Common Crawl数据集探索（一）介绍"
 date      : 2025-04-24
 lastupdate: 2025-04-24
 categories: 大模型 数据

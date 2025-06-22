@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     : "Common Crawl数据集探索（三）：Urban Dictionary竟然是数据界的'顶流'！"
+title     : "Common Crawl数据集探索（三）Urban Dictionary竟然是数据界的'顶流'！"
 date      : 2025-06-22
 lastupdate: 2025-06-22
 categories: 大模型 数据
