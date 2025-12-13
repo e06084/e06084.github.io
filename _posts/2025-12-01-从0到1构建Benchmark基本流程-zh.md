@@ -16,7 +16,7 @@ Benchmark是AI产品/模型的自动化测试用例。
 
 # 构建benchmark流程
 
-![](https://files.mdnice.com/user/7945/cc7fd0bf-6262-421f-a389-d75cd3e0781e.png)
+![Benchmark构建流程图](/assets/img/benchmark.jpg)
 
 构建一个行业认可的Benchmark工作很繁杂，总结来讲主要分为数据集工程和评测工程两条线。如上图所示。
 

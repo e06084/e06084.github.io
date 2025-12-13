@@ -19,6 +19,7 @@ categories: 大模型 数据
 没错，就是那个让你查"网络黑话"的Urban Dictionary！这个结果是不是让你大跌眼镜？😄
 
 ![Urban Dictionary官网截图](/assets/img/urban_dictionary.png)
+
 *Urban Dictionary - 网络俚语的集散地，也是CC数据集的"顶流"*
 
 ## 为什么是Urban Dictionary？
