@@ -22,12 +22,12 @@ Senior Software Engineer with over 10 years of experience specializing in cloud 
    * Design and maintain data processing pipelines for high-quality training data preparation
 
 2. **Qiniu Cloud** (2018.04 - 2023.05)
-   * Senior Software Testing Engineer & Technical Expert
+   * Senior Software Engineer & Technical Expert
    * Led quality assurance for Cloud Storage, BigData, and CDN solutions
    * Developed automated testing frameworks and performance benchmarking tools
 
 3. **IBM** (2013.07 - 2018.03)
-   * Software Testing Engineer in China Software Testing Lab (CSTL)
+   * Software Engineer in China Software Technology Lab (CSTL)
    * Implemented quality assurance methodologies for enterprise software solutions
 
 ## Technical Expertise
